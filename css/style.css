@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Indie+Flower');
+
+body{
+    background:#FFE093
+}
+.navbar-default{
+    background-color: #BBCC5F;
+    padding:10px;
+    margin-bottom:0;
+}
+
+.navbar-default .navbar-brand{
+    font-family: 'Gloria Hallelujah', cursive;
+    color:#444B23;
+    font-size:40px;
+}
+
+.navbar-default .navbar-nav>li>a{
+    font-size:25px;
+    font-family: 'Indie Flower', cursive;
+}
+
+
+p{
+    font-family: 'Indie Flower', cursive;
+    font-size:21px;
+}
+
+.titlecontainer{
+        background-color: #9AA74E;
+    padding:10px;
+}
+
+.title{
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align:center;
+    color:#444B23;
+    margin-bottom:25px;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img{
+    margin:0 auto;
+    max-width:100%;
+    width:auto;
+}
+
+.comicslider{
+    background:#f3f7f7;
+}
+
+input, label, textarea{
+    width:100%;
+}
+

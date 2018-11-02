@@ -1,4 +1,4 @@
-<!--mobile friendly hamburger menu-->
+	<!--mobile friendly hamburger menu-->
 	<nav class="navbar navbar-default affix-top">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
